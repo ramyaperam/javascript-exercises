@@ -13,4 +13,3 @@ function repeatString(string, num) {
   }
   
   module.exports = repeatString;
-  
