@@ -1,7 +1,7 @@
 const fibonacci = require('./fibonacci')
 
 describe('fibonacci', () => {
-  test.skip('4th fibonacci number is 3', () => {
+  test('4th fibonacci number is 3', () => {
     expect(fibonacci(4)).toBe(3);
   });
   test('6th fibonacci number is 8', () => {

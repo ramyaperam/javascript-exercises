@@ -17,6 +17,4 @@ const fibonacci = function (n) {
   };
   
   module.exports = fibonacci;
-
-
   
