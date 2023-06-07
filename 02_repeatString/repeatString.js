@@ -10,6 +10,6 @@ function repeatString(string, num) {
     }
     
     return result;
-  }
+  } module.exports = repeatString;
   
-  module.exports = repeatString;
+ 
